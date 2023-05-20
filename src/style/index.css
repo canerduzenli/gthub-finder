@@ -1,0 +1,167 @@
+@charset "UTF-8";
+
+body {
+  background-color: #333333;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+  width: min(100% - 30px, 1200px);
+  margin-inline: auto;
+
+
+}
+
+/* SearchComponent */
+
+.SearchForm {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h2 {
+  color: #fff;
+  position: relative;
+  margin-left: 35px;
+
+
+}
+
+.SearchBttn,
+input,
+.SearchLabel {
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px;
+  margin: 3px;
+
+}
+
+.SearchBttn {
+  background-color: rgb(252, 166, 8);
+  color: #fff;
+  cursor: pointer;
+}
+
+.SearchBttn :hover {
+  color: rgb(252, 166, 8);
+  background-color: #fff;
+}
+
+
+.Profile {
+  height: 200px;
+  width: 200px;
+  margin: auto;
+  padding: 40px;
+
+}
+
+.Profile img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  position: relative;
+  margin-top: 40px;
+  left: 40%;
+
+  transform: translate(-50%, -50%);
+
+
+}
+
+.Profile h1 {
+  position: relative;
+  color: #fff;
+  font-size: 1.5em;
+  margin: auto;
+  margin-bottom: 40px;
+
+}
+
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.centeredDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.Inf {
+  display: flex;
+  transform: translate(-15%, -30%);
+  font-size: unset;
+  margin-top: 15px;
+
+}
+
+span {
+  margin-right: 70px;
+  color: rgb(30, 218, 30);
+
+
+}
+
+.Inf p {
+  margin-right: 20px;
+  color: #fff;
+}
+
+.UserBttn {
+  display: block;
+  position: relative;
+  transform: translate(15%, 40%);
+  background-color: orangered;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+
+.UserBttn a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 300;
+  font-size: larger;
+}
+
+.repos {
+  margin-top: 100px;
+  padding: 10px;
+}
+
+.repo {
+  display: flex;
+  justify-content: space-between;
+  color: rgb(30, 218, 30);
+  margin: 10px;
+  background-color: rgba(102, 102, 102, 0.5);
+  border-radius: 5px;
+  padding: 7px;
+  font-family: 'Nunito', sans-serif;
+
+
+
+}
+
+
+.date {
+  padding: 20px;
+  color: #fff;
+}
+
+.Text-B {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+}
