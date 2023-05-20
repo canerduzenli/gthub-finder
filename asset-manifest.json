@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gthub-finder/static/css/main.d976a70f.css",
+    "main.js": "/gthub-finder/static/js/main.e980bdfd.js",
+    "index.html": "/gthub-finder/index.html",
+    "main.d976a70f.css.map": "/gthub-finder/static/css/main.d976a70f.css.map",
+    "main.e980bdfd.js.map": "/gthub-finder/static/js/main.e980bdfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d976a70f.css",
+    "static/js/main.e980bdfd.js"
+  ]
+}
