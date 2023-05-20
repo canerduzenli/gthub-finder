@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gthub-finder/static/css/main.d976a70f.css",
-    "main.js": "/gthub-finder/static/js/main.e980bdfd.js",
+    "main.css": "/gthub-finder/static/css/main.81d4d5df.css",
+    "main.js": "/gthub-finder/static/js/main.56c4f945.js",
     "index.html": "/gthub-finder/index.html",
-    "main.d976a70f.css.map": "/gthub-finder/static/css/main.d976a70f.css.map",
-    "main.e980bdfd.js.map": "/gthub-finder/static/js/main.e980bdfd.js.map"
+    "main.81d4d5df.css.map": "/gthub-finder/static/css/main.81d4d5df.css.map",
+    "main.56c4f945.js.map": "/gthub-finder/static/js/main.56c4f945.js.map"
   },
   "entrypoints": [
-    "static/css/main.d976a70f.css",
-    "static/js/main.e980bdfd.js"
+    "static/css/main.81d4d5df.css",
+    "static/js/main.56c4f945.js"
   ]
 }
