@@ -1,6 +1,6 @@
 {
-  "homepage": "http://canerduzenli.github.io/ghub-finder",
-  "name": "ghub-finder",
+  "homepage": "http://canerduzenli.github.io/gthub-finder",
+  "name": "gthub-finder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

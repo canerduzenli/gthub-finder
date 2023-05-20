@@ -9,7 +9,7 @@ const User = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    const token = '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'
+    const token = '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'
     const fetchData = async () => {
       try {
         const userResponse = await axios.get(`https://api.github.com/users/${username}`, {

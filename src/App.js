@@ -10,6 +10,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Search />} />
         <Route path="/User/:username" element={<User />} />
+        <Route path="*" element={<Search />} /> {/* Wildcard route */}
+
       </Routes>
     </div>
   );
